@@ -2,7 +2,7 @@
 
 ***
 
-#Information fénérales
+#Information générales
 L'objectif de ce programme est d'obtenir les k logements les plus proches du logement recherché
 
 ***
