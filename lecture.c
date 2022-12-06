@@ -7,7 +7,7 @@ void lecture(struct ListeLogements *pointeurListeLogements)
 	int compteurLigne=0;
 	int compteurTableau=0;
 	FILE* fichier;
-	fichier=fopen("/data/Documents/Cours/Informatique/Programmation_Procédurale/DM/Rendre/Exercice1/airbnb_donnees_propre.csv","r");
+	fichier=fopen("airbnb_donnees_propre.csv","r");
 	char ligne[100];//Contient une ligne de fichier, on considère qu'il y a au plus 100 caractères
 	fgets(ligne,100,fichier);//On ne prend pas en compte la première ligne du fichier|caractere contient une ligne du fichier
 	while ((fgets(ligne,100, fichier))!=NULL)
