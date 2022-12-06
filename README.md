@@ -1,11 +1,11 @@
-# Exercice1
-
-***
-
-#Informations générales
-L'objectif de ce programme est d'obtenir les k logements les plus proches du logement recherché
-
-***
+# Exercice1  
+  
+***  
+  
+#Informations générales  
+L'objectif de ce programme est d'obtenir les k logements les plus proches du logement recherché  
+  
+***  
 
 #Démarrage
 1)Ouvir un terminal depuis l'adresse du makefile
