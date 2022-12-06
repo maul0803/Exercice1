@@ -8,9 +8,9 @@ L'objectif de ce programme est d'obtenir les k logements les plus proches du log
 ***
 
 #Démarrage
-1)Ouvir un terminale depuis l'adresse du makefile
-2)Compiler les programmes avec la commande make depuis le terminale
-3)Lancer le programme depuis le terminale
+1)Ouvir un terminal depuis l'adresse du makefile
+2)Compiler les programmes avec la commande make depuis le terminal
+3)Lancer le programme depuis le terminal
 4)Suivre les instructions affichées
 
 ***
